@@ -1,3 +1,6 @@
-This is Business Access Layer file ;
 
-Hello world;
+public class BAL {
+    public static void main(String[] args) {
+        
+    }
+}
